@@ -9,3 +9,4 @@
 - [制御構文](./05-control-flow/README.md)
 - [エラーハンドリング](./06-error-handling/README.md)
 - [Optional型](./07-optional/README.md)
+- [配列とスライス](./08-array/README.md)

@@ -4,3 +4,4 @@
 
 - [プロジェクトの作成](./01-init-project/README.md)
 - [変数宣言](./02-var-and-const/README.md)
+- [基本的な型](./03-primitives/README.md)

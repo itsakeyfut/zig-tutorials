@@ -14,3 +14,4 @@
 - [defer と errdefer](./10-defer-and-errdefer/README.md)
 - [comptime入門](./11-comptime-basic/README.md)
 - [組み込み関数（基礎）](./12-built-in-function/README.md)
+- [テスト](./13-testing/README.md)

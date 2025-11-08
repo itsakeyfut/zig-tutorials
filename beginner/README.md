@@ -11,3 +11,4 @@
 - [Optional型](./07-optional/README.md)
 - [配列とスライス](./08-array/README.md)
 - [構造体](./09-struct/README.md)
+- [defer と errdefer](./10-defer-and-errdefer/README.md)

@@ -12,3 +12,4 @@
 - [配列とスライス](./08-array/README.md)
 - [構造体](./09-struct/README.md)
 - [defer と errdefer](./10-defer-and-errdefer/README.md)
+- [comptime入門](./11-comptime-basic/README.md)

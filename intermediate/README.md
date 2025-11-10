@@ -8,3 +8,4 @@
 - [ユニオンとタグ付きユニオン](./04-union/README.md)
 - [enum（列挙型）](./05-enum/README.md)
 - [comptimeの深堀り](./06-comptime-deeper/README.md)
+- [ジェネリクス](./07-generics/README.md)

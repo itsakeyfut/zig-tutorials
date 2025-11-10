@@ -10,3 +10,4 @@
 - [comptimeの深堀り](./06-comptime-deeper/README.md)
 - [ジェネリクス](./07-generics/README.md)
 - [動的データ構造（ArrayList）](./08-arraylist/README.md)
+- [パッケージとモジュール](./09-package-and-module/README.md)

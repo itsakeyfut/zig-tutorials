@@ -9,3 +9,4 @@
 - [enum（列挙型）](./05-enum/README.md)
 - [comptimeの深堀り](./06-comptime-deeper/README.md)
 - [ジェネリクス](./07-generics/README.md)
+- [動的データ構造（ArrayList）](./08-arraylist/README.md)
